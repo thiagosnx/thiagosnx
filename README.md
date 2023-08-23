@@ -7,7 +7,7 @@
 <h3 align="center">Front-End Learner</h3>
 -💻 Suporte <br>
 -🎓 Cursando Análise e Desenvolvimento de Sistemas<br>
--👾 Estudando JavaScript<br>
+-👾 Estudando JavaScript e Java<br>
 -⚡ Viso trabalhar com Desenvolvimento Web<br>
 
 
