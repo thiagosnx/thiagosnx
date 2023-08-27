@@ -8,7 +8,7 @@
 -💻 Suporte <br>
 -🎓 Cursando Análise e Desenvolvimento de Sistemas<br>
 -👾 Estudando JavaScript, Java e Cloud<br>
--⚡ Pretendo trabalhar como desenvolvedor<br>
+
 
 
 
