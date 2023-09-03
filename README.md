@@ -7,7 +7,7 @@
 <h3 align="center">Back End developer</h3>
 -💻 Suporte <br>
 -🎓 Cursando Análise e Desenvolvimento de Sistemas<br>
--👾 Estudando JavaScript, Java e Cloud<br>
+-👾 Java | Spring | AWS | JavaScript<br>
 
 
 
