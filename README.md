@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://www.linkedin.com/in/thiagosantanacq/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="css3" width="30px" height="40"/> </a> <a href="https://thiagosantana.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="html5" width="30px" >
 
 
-<h3 align="center">Programming Student</h3>
+<h3 align="center">Back End developer</h3>
 -💻 Suporte <br>
 -🎓 Cursando Análise e Desenvolvimento de Sistemas<br>
 -👾 Estudando JavaScript, Java e Cloud<br>
