@@ -5,7 +5,8 @@
 
 
 <h3 align="center">Back End developer</h3>
--🐱‍💻 Desenvolvedor Backend <br>
+-🐱‍💻 Backend Developer <br>
+-🔐 Cibersecurity Student <br>
 -👾 Java | Spring | PHP | Laravel
 
 
@@ -16,6 +17,8 @@
 <p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="javat" width="40" height="40"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a> 
     <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+     <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="kali" width="40" height="40"/> </a>
+
 
 
   
