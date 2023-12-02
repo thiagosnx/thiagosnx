@@ -5,9 +5,9 @@
 
 
 <h3 align="center">Back End developer</h3>
--🐱‍💻 Backend Developer <br>
+-🐱‍💻 Web Developer <br>
 -🔐 Cibersecurity Student <br>
--👾 Java | Spring | PHP | Laravel
+-👾 Java | Spring | PHP | Laravel | Angular
 
 
 
