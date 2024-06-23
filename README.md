@@ -4,24 +4,10 @@
 
 
 
-<h3 align="center">Back End developer</h3>
+<h3 align="center">Web Developer</h3>
 -🐱‍💻 Web Developer <br>
 -👾 Java | PHP | Angular
 
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="javat" width="40" height="40"/> </a> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a> 
-    
-
-
-
+ 
   
-  
-</p>
-</p>
-
 
