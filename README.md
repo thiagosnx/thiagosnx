@@ -4,7 +4,7 @@
 
 
 -🐱‍💻 software developer <br>
--👾 hacking & malware developer for fun
+-👾 hacking for fun
 
 
  
