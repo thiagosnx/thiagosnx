@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Thiago Santana</h1>
 
 
--🐱‍💻 Web Developer <br>
--👾 Java | PHP | Angular
+-🐱‍💻 software developer <br>
+
 
  
   
