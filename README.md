@@ -4,7 +4,6 @@
 
 
 -🐱‍💻 software developer <br>
--👾 hacking for fun
 
 
  
